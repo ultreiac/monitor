@@ -2,7 +2,11 @@
 owner: ultreiac # Your GitHub organization or username, where this repository lives
 repo: monitor # The name of this repository
 user-agent: ultreiac
-
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  liveStatus: Estado actual
+  pastIncidents: Incidentes pasados
 sites:
   - name: Ultreia
     url: https://ultreia.es
