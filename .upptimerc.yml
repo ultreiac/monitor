@@ -7,6 +7,9 @@ i18n:
   allSystemsOperational: Todos los sistemas están operativos
   liveStatus: Estado actual
   pastIncidents: Incidentes pasados
+  averageResponseTime: "Tiempo de respuesta medio: $TIMEms"
+  overallUptime: "Tiempo de funcionamiento: $UPTIME"
+  footer: ---
 sites:
   - name: Ultreia
     url: https://ultreia.es
