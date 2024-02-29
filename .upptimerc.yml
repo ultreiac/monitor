@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://ultreia.es/wp-content/uploads/logo_ultreia_byn-300x255.png
   name: Upptime
   introTitle: "Ultreia Comunicaciones S.L"
-  introMessage: Estado de los servidores:
+  introMessage: Estado de los servidores
   navbar:
     - title: Status
       href: /
