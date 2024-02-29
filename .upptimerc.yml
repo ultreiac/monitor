@@ -6,13 +6,16 @@ user-agent: ultreiac
 sites:
   - name: Ultreia
     url: https://ultreia.es
+    __dangerous__body_down_if_text_missing: 'personal'
   - name: Webmail Ticaas
     url: https://webmail.ticaas.net
     __dangerous__body_down_if_text_missing: 'Iniciar'
   - name: Froiz - Corporativa
     url: https://froiz.es
+    __dangerous__body_down_if_text_missing: 'Promociones'
   - name: Froiz - Tienda
-    url: https://www.froiz.com/shop
+    url: https://www.froiz.com/shop/
+    __dangerous__body_down_if_text_missing: 'Promociones'
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
