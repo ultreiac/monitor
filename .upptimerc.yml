@@ -1,12 +1,29 @@
 # Change these first
 owner: ultreiac # Your GitHub organization or username, where this repository lives
 repo: monitor # The name of this repository
+user-agent: ultreiac
 
 sites:
   - name: Ultreia
     url: https://ultreia.es
   - name: Webmail Ticaas
     url: https://webmail.ticaas.net
+  - name: Froiz - Corporativa
+    url: https://froiz.es
+  - name: Froiz - Tienda
+    url: https://www.froiz.com/shop/
+  - name: Ticaas IMAP (143)
+    check: "tcp-ping"
+    url: mail.ticaas.net
+    port: 143
+  - name: ticaas POP (110)
+    check: "tcp-ping"
+    url: mail.ticaas.net
+    port: 110
+  - name: Ticaas SMTP (25)
+    check: "tcp-ping"
+    url: smtp.ticaas.net
+    port: 25
   - name: Ticaas DNS 1
     check: "tcp-ping"
     url: kianchau.ns.cloudflare.com
@@ -22,11 +39,11 @@ status-website:
   # cname: 
   baseUrl: /monitor
   logoUrl: https://ultreia.es/wp-content/uploads/logo_ultreia_byn-300x255.png
-  name: Upptime
+  name: Uptime
   introTitle: "Ultreia Comunicaciones S.L"
-  introMessage: "Estado de los servidores"
+  introMessage: "Estado de los servidores:"
   navbar:
-    - title: Status
+    - title: Estado
       href: /
 
 # Upptime also supports notifications, assigning issues, and more
