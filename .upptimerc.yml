@@ -23,11 +23,14 @@ sites:
   - name: Froiz - Tienda
     url: https://www.froiz.com/shop/
     __dangerous__body_down_if_text_missing: 'Promociones'
+  - name: Ocionorte
+    url: https://salapelicano.ocionorte.com/
+    __dangerous__body_down_if_text_missing: 'Eventos'
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
     port: 143
-  - name: ticaas POP (110)
+  - name: Ticaas POP (110)
     check: "tcp-ping"
     url: mail.ticaas.net
     port: 110
