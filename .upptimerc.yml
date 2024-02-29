@@ -8,10 +8,11 @@ sites:
     url: https://ultreia.es
   - name: Webmail Ticaas
     url: https://webmail.ticaas.net
+    __dangerous__body_down_if_text_missing: 'Iniciar'
   - name: Froiz - Corporativa
     url: https://froiz.es
   - name: Froiz - Tienda
-    url: https://www.froiz.com/shop/
+    url: https://www.froiz.com/shop
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
