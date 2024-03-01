@@ -19,13 +19,13 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 sites:
-  - name: Ultreia
+  - name: Ultreia Web
     url: https://ultreia.es
     __dangerous__body_down_if_text_missing: 'personal'
-  - name: Webmail Ticaas
-    url: https://webmail.ticaas.net
-    __dangerous__body_down_if_text_missing: 'Iniciar'
-  - name: Froiz - Corporativa
+  - name: Empleo Ultreia
+    url: https://empleo.ultreia.es/
+    __dangerous__body_down_if_text_missing: 'requisitos'
+  - name: Froiz - Web Corporativa
     url: https://froiz.es
     __dangerous__body_down_if_text_missing: 'Promociones'
   - name: Froiz - Tienda
@@ -34,6 +34,9 @@ sites:
   - name: Ocionorte
     url: https://salapelicano.ocionorte.com/
     __dangerous__body_down_if_text_missing: 'Eventos'
+  - name: Webmail Ticaas
+    url: https://webmail.ticaas.net
+    __dangerous__body_down_if_text_missing: 'Iniciar'
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
@@ -46,11 +49,11 @@ sites:
     check: "tcp-ping"
     url: smtp.ticaas.net
     port: 25
-  - name: Ticaas DNS 1
+  - name: CF Ticaas DNS 1
     check: "tcp-ping"
     url: kianchau.ns.cloudflare.com
     port: 53
-  - name: Ticaas DNS 2
+  - name: CF Ticaas DNS 2
     check: "tcp-ping"
     url: naomi.ns.cloudflare.com
     port: 53
