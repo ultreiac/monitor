@@ -37,6 +37,9 @@ sites:
   - name: Webmail Ticaas
     url: https://webmail.ticaas.net
     __dangerous__body_down_if_text_missing: 'Iniciar'
+  - name: La Ondarresa
+    url: https://www.laondarresa.eus
+    __dangerous__body_down_if_text_missing: 'mar'
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
