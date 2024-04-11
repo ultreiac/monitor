@@ -40,6 +40,8 @@ sites:
   - name: La Ondarresa
     url: https://www.laondarresa.eus
     __dangerous__body_down_if_text_missing: 'mar'
+  - name: MiHogarDigital albarán
+    url: https://www.mihogardigital.es/_php_scripts/test_albaran.php
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
