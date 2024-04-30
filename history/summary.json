@@ -133,9 +133,9 @@
     "url": "https://www.mihogardigital.es/_php_scripts/test_albaran.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.mihogardigital.es.ico",
     "slug": "mi-hogar-digital-albaran",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +144,9 @@
     "timeWeek": 3772,
     "timeMonth": 3788,
     "timeYear": 3788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-30": 0
+    }
   },
   {
     "name": "Ticaas IMAP (143)",
