@@ -133,19 +133,19 @@
     "url": "https://www.mihogardigital.es/_php_scripts/test_albaran.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.mihogardigital.es.ico",
     "slug": "mi-hogar-digital-albaran",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3788,
-    "timeDay": 3738,
-    "timeWeek": 3772,
-    "timeMonth": 3788,
-    "timeYear": 3788,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3782,
+    "timeDay": 3705,
+    "timeWeek": 3760,
+    "timeMonth": 3782,
+    "timeYear": 3782,
     "dailyMinutesDown": {
-      "2024-04-30": 0
+      "2024-04-30": 11
     }
   },
   {
