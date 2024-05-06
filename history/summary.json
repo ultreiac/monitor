@@ -79,18 +79,20 @@
     "url": "https://salapelicano.ocionorte.com/",
     "icon": "https://icons.duckduckgo.com/ip3/salapelicano.ocionorte.com.ico",
     "slug": "ocionorte",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1408,
-    "timeDay": 3569,
-    "timeWeek": 1815,
-    "timeMonth": 1503,
-    "timeYear": 1408,
-    "dailyMinutesDown": {}
+    "time": 1437,
+    "timeDay": 3566,
+    "timeWeek": 2033,
+    "timeMonth": 1565,
+    "timeYear": 1437,
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "Webmail Ticaas",
