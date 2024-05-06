@@ -79,19 +79,19 @@
     "url": "https://salapelicano.ocionorte.com/",
     "icon": "https://icons.duckduckgo.com/ip3/salapelicano.ocionorte.com.ico",
     "slug": "ocionorte",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1437,
-    "timeDay": 3566,
-    "timeWeek": 2033,
-    "timeMonth": 1565,
-    "timeYear": 1437,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.93%",
+    "time": 1436,
+    "timeDay": 2816,
+    "timeWeek": 1953,
+    "timeMonth": 1558,
+    "timeYear": 1436,
     "dailyMinutesDown": {
-      "2024-05-06": 0
+      "2024-05-06": 67
     }
   },
   {
