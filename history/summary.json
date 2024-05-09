@@ -117,19 +117,19 @@
     "url": "https://www.laondarresa.eus",
     "icon": "https://icons.duckduckgo.com/ip3/www.laondarresa.eus.ico",
     "slug": "la-ondarresa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4002,
-    "timeDay": 1210,
-    "timeWeek": 2452,
-    "timeMonth": 4002,
-    "timeYear": 4002,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3916,
+    "timeDay": 1271,
+    "timeWeek": 2312,
+    "timeMonth": 3916,
+    "timeYear": 3916,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 17
     }
   },
   {
