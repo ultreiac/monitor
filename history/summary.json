@@ -117,9 +117,9 @@
     "url": "https://www.laondarresa.eus",
     "icon": "https://icons.duckduckgo.com/ip3/www.laondarresa.eus.ico",
     "slug": "la-ondarresa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +128,9 @@
     "timeWeek": 2452,
     "timeMonth": 4002,
     "timeYear": 4002,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   },
   {
     "name": "MiHogarDigital albarán",
