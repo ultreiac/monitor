@@ -42,6 +42,12 @@ sites:
     __dangerous__body_down_if_text_missing: 'mar'
   - name: MiHogarDigital albarán
     url: https://www.mihogardigital.es/_php_scripts/test_albaran.php
+  - name: El Mar
+    url: https://elmar.es
+    __dangerous__body_down_if_text_missing: '1956'
+  - name: De vinos con Alicia
+    url: https://www.devinosconalicia.com
+    __dangerous__body_down_if_text_missing: 'sabores'
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
