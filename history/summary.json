@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultreia.es.ico",
     "slug": "ultreia-web",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.51%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 3336,
     "timeDay": 2612,
-    "timeWeek": 3418,
+    "timeWeek": 3413,
     "timeMonth": 3005,
     "timeYear": 3336,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "uptimeYear": "100.00%",
     "time": 1097,
     "timeDay": 1068,
-    "timeWeek": 1059,
+    "timeWeek": 1015,
     "timeMonth": 1047,
     "timeYear": 1097,
     "dailyMinutesDown": {}
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 133,
-    "timeWeek": 140,
+    "timeWeek": 142,
     "timeMonth": 231,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -71,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 1294,
     "timeDay": 888,
-    "timeWeek": 3026,
+    "timeWeek": 3214,
     "timeMonth": 1954,
     "timeYear": 1294,
     "dailyMinutesDown": {}
@@ -89,7 +89,7 @@
     "uptimeYear": "99.94%",
     "time": 1445,
     "timeDay": 1708,
-    "timeWeek": 1533,
+    "timeWeek": 1522,
     "timeMonth": 1586,
     "timeYear": 1445,
     "dailyMinutesDown": {
@@ -109,7 +109,7 @@
     "uptimeYear": "100.00%",
     "time": 518,
     "timeDay": 570,
-    "timeWeek": 526,
+    "timeWeek": 499,
     "timeMonth": 502,
     "timeYear": 518,
     "dailyMinutesDown": {}
@@ -127,7 +127,7 @@
     "uptimeYear": "99.97%",
     "time": 3904,
     "timeDay": 1582,
-    "timeWeek": 4026,
+    "timeWeek": 3870,
     "timeMonth": 3740,
     "timeYear": 3904,
     "dailyMinutesDown": {
@@ -139,18 +139,20 @@
     "url": "https://www.mihogardigital.es/_php_scripts/test_albaran.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.mihogardigital.es.ico",
     "slug": "mi-hogar-digital-albaran",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3853,
-    "timeDay": 5161,
-    "timeWeek": 3987,
-    "timeMonth": 3876,
-    "timeYear": 3853,
-    "dailyMinutesDown": {}
+    "time": 3800,
+    "timeDay": 3296,
+    "timeWeek": 3680,
+    "timeMonth": 3802,
+    "timeYear": 3800,
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   },
   {
     "name": "El Mar",
@@ -165,7 +167,7 @@
     "uptimeYear": "100.00%",
     "time": 1986,
     "timeDay": 3562,
-    "timeWeek": 1986,
+    "timeWeek": 1963,
     "timeMonth": 1986,
     "timeYear": 1986,
     "dailyMinutesDown": {}
@@ -183,7 +185,7 @@
     "uptimeYear": "100.00%",
     "time": 1595,
     "timeDay": 1940,
-    "timeWeek": 1595,
+    "timeWeek": 1541,
     "timeMonth": 1595,
     "timeYear": 1595,
     "dailyMinutesDown": {}
@@ -201,7 +203,7 @@
     "uptimeYear": "100.00%",
     "time": 138,
     "timeDay": 148,
-    "timeWeek": 130,
+    "timeWeek": 127,
     "timeMonth": 129,
     "timeYear": 138,
     "dailyMinutesDown": {}
@@ -219,7 +221,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 148,
-    "timeWeek": 129,
+    "timeWeek": 126,
     "timeMonth": 128,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -237,7 +239,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 149,
-    "timeWeek": 129,
+    "timeWeek": 127,
     "timeMonth": 128,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -255,7 +257,7 @@
     "uptimeYear": "100.00%",
     "time": 6,
     "timeDay": 9,
-    "timeWeek": 6,
+    "timeWeek": 5,
     "timeMonth": 6,
     "timeYear": 6,
     "dailyMinutesDown": {}
@@ -273,7 +275,7 @@
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 9,
-    "timeWeek": 5,
+    "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
