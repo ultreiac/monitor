@@ -41,7 +41,8 @@ sites:
     url: https://www.laondarresa.eus
     __dangerous__body_down_if_text_missing: 'mar'
   - name: MiHogarDigital albarán
-    url: https://www.mihogardigital.es/_php_scripts/test_albaran.php
+    url: https://www.mihogardigital.es
+    __dangerous__body_down_if_text_missing: 'mihogardigital'
   - name: El Mar
     url: https://elmar.es
     __dangerous__body_down_if_text_missing: '1956'
