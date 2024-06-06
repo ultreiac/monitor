@@ -46,8 +46,6 @@ sites:
   - name: El Mar
     url: https://elmar.es
     __dangerous__body_down_if_text_missing: '1956'
-  - name: De vinos con Alicia
-    url: https://www.devinosconalicia.com
   - name: Ticaas IMAP (143)
     check: "tcp-ping"
     url: mail.ticaas.net
