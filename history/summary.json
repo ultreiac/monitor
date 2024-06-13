@@ -8,12 +8,12 @@
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.52%",
     "time": 3258,
     "timeDay": 3253,
-    "timeWeek": 3009,
-    "timeMonth": 3033,
+    "timeWeek": 2879,
+    "timeMonth": 3053,
     "timeYear": 3258,
     "dailyMinutesDown": {
       "2024-05-24": 66,
@@ -36,7 +36,7 @@
     "uptimeYear": "100.00%",
     "time": 1100,
     "timeDay": 1463,
-    "timeWeek": 1147,
+    "timeWeek": 1115,
     "timeMonth": 1089,
     "timeYear": 1100,
     "dailyMinutesDown": {}
@@ -54,7 +54,7 @@
     "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 93,
-    "timeWeek": 117,
+    "timeWeek": 119,
     "timeMonth": 201,
     "timeYear": 214,
     "dailyMinutesDown": {}
@@ -72,7 +72,7 @@
     "uptimeYear": "100.00%",
     "time": 1245,
     "timeDay": 2968,
-    "timeWeek": 1115,
+    "timeWeek": 1154,
     "timeMonth": 1572,
     "timeYear": 1245,
     "dailyMinutesDown": {}
@@ -82,18 +82,19 @@
     "url": "https://salapelicano.ocionorte.com/",
     "icon": "https://icons.duckduckgo.com/ip3/salapelicano.ocionorte.com.ico",
     "slug": "ocionorte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1502,
-    "timeDay": 1157,
-    "timeWeek": 2321,
-    "timeMonth": 1640,
-    "timeYear": 1502,
+    "time": 1499,
+    "timeDay": 1149,
+    "timeWeek": 1065,
+    "timeMonth": 1626,
+    "timeYear": 1499,
     "dailyMinutesDown": {
+      "2024-06-13": 0,
       "2024-05-06": 67
     }
   },
@@ -110,7 +111,7 @@
     "uptimeYear": "100.00%",
     "time": 520,
     "timeDay": 610,
-    "timeWeek": 570,
+    "timeWeek": 475,
     "timeMonth": 523,
     "timeYear": 520,
     "dailyMinutesDown": {}
@@ -128,7 +129,7 @@
     "uptimeYear": "99.98%",
     "time": 4192,
     "timeDay": 6291,
-    "timeWeek": 4786,
+    "timeWeek": 3682,
     "timeMonth": 4364,
     "timeYear": 4192,
     "dailyMinutesDown": {
@@ -148,7 +149,7 @@
     "uptimeYear": "98.90%",
     "time": 3219,
     "timeDay": 2440,
-    "timeWeek": 2156,
+    "timeWeek": 2107,
     "timeMonth": 2641,
     "timeYear": 3219,
     "dailyMinutesDown": {
@@ -169,7 +170,7 @@
     "uptimeYear": "100.00%",
     "time": 2016,
     "timeDay": 2180,
-    "timeWeek": 2106,
+    "timeWeek": 2157,
     "timeMonth": 2016,
     "timeYear": 2016,
     "dailyMinutesDown": {}
@@ -187,7 +188,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 170,
-    "timeWeek": 136,
+    "timeWeek": 131,
     "timeMonth": 129,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -205,7 +206,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 171,
-    "timeWeek": 136,
+    "timeWeek": 131,
     "timeMonth": 129,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -223,7 +224,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 171,
-    "timeWeek": 136,
+    "timeWeek": 131,
     "timeMonth": 129,
     "timeYear": 134,
     "dailyMinutesDown": {}
