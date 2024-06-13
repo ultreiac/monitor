@@ -1,7 +1,7 @@
 url: https://salapelicano.ocionorte.com/
-status: up
-code: 200
-responseTime: 1157
-lastUpdated: 2024-06-12T23:11:47.226Z
+status: down
+code: 503
+responseTime: 1141
+lastUpdated: 2024-06-13T11:46:16.471Z
 startTime: 2024-02-29T11:28:55.546Z
 generator: Upptime <https://github.com/upptime/upptime>
