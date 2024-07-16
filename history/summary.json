@@ -167,9 +167,9 @@
     "url": "https://elmar.es",
     "icon": "https://icons.duckduckgo.com/ip3/elmar.es.ico",
     "slug": "el-mar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -178,7 +178,9 @@
     "timeWeek": 2243,
     "timeMonth": 2006,
     "timeYear": 2016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-16": 0
+    }
   },
   {
     "name": "Ticaas IMAP (143)",
