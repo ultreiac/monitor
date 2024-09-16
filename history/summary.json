@@ -55,19 +55,19 @@
     "url": "https://empleo.ultreia.es/",
     "icon": "https://icons.duckduckgo.com/ip3/empleo.ultreia.es.ico",
     "slug": "empleo-ultreia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1064,
-    "timeDay": 945,
-    "timeWeek": 1001,
-    "timeMonth": 1015,
-    "timeYear": 1064,
+    "time": 1063,
+    "timeDay": 875,
+    "timeWeek": 976,
+    "timeMonth": 1009,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 11
     }
   },
   {
