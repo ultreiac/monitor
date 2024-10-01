@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultreia.es.ico",
     "slug": "ultreia-web",
     "status": "up",
-    "uptime": "81.32%",
+    "uptime": "81.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "81.32%",
+    "uptimeYear": "81.33%",
     "time": 2951,
     "timeDay": 2918,
     "timeWeek": 2387,
-    "timeMonth": 2512,
+    "timeMonth": 2504,
     "timeYear": 2951,
     "dailyMinutesDown": {
       "2024-09-04": 30,
@@ -64,7 +64,7 @@
     "time": 1070,
     "timeDay": 1058,
     "timeWeek": 1480,
-    "timeMonth": 1085,
+    "timeMonth": 1083,
     "timeYear": 1070,
     "dailyMinutesDown": {}
   },
@@ -82,7 +82,7 @@
     "time": 227,
     "timeDay": 142,
     "timeWeek": 167,
-    "timeMonth": 346,
+    "timeMonth": 354,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -100,7 +100,7 @@
     "time": 1102,
     "timeDay": 792,
     "timeWeek": 787,
-    "timeMonth": 732,
+    "timeMonth": 729,
     "timeYear": 1102,
     "dailyMinutesDown": {}
   },
@@ -118,7 +118,7 @@
     "time": 1404,
     "timeDay": 1258,
     "timeWeek": 1222,
-    "timeMonth": 1280,
+    "timeMonth": 1276,
     "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-09-27": 70,
@@ -143,7 +143,7 @@
     "time": 495,
     "timeDay": 554,
     "timeWeek": 428,
-    "timeMonth": 445,
+    "timeMonth": 442,
     "timeYear": 495,
     "dailyMinutesDown": {}
   },
@@ -161,7 +161,7 @@
     "time": 3970,
     "timeDay": 1379,
     "timeWeek": 3626,
-    "timeMonth": 4021,
+    "timeMonth": 3970,
     "timeYear": 3970,
     "dailyMinutesDown": {
       "2024-09-09": 25,
@@ -182,7 +182,7 @@
     "time": 2671,
     "timeDay": 1909,
     "timeWeek": 2389,
-    "timeMonth": 2476,
+    "timeMonth": 2473,
     "timeYear": 2671,
     "dailyMinutesDown": {
       "2024-09-30": 42,
@@ -208,7 +208,7 @@
     "time": 1957,
     "timeDay": 1354,
     "timeWeek": 1521,
-    "timeMonth": 1808,
+    "timeMonth": 1783,
     "timeYear": 1957,
     "dailyMinutesDown": {
       "2024-09-30": 42
@@ -228,7 +228,7 @@
     "time": 128,
     "timeDay": 149,
     "timeWeek": 101,
-    "timeMonth": 110,
+    "timeMonth": 109,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -246,7 +246,7 @@
     "time": 127,
     "timeDay": 150,
     "timeWeek": 101,
-    "timeMonth": 110,
+    "timeMonth": 109,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -264,7 +264,7 @@
     "time": 126,
     "timeDay": 148,
     "timeWeek": 101,
-    "timeMonth": 110,
+    "timeMonth": 108,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
