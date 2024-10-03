@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultreia.es.ico",
     "slug": "ultreia-web",
     "status": "up",
-    "uptime": "81.50%",
+    "uptime": "81.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "81.50%",
+    "uptimeYear": "81.53%",
     "time": 2944,
     "timeDay": 2150,
     "timeWeek": 2379,
@@ -73,9 +73,9 @@
     "url": "https://froiz.es",
     "icon": "https://icons.duckduckgo.com/ip3/froiz.es.ico",
     "slug": "froiz-web-corporativa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,7 +84,9 @@
     "timeWeek": 169,
     "timeMonth": 357,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "Froiz - Tienda",
