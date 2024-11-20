@@ -60,9 +60,9 @@
     "url": "https://empleo.ultreia.es/",
     "icon": "https://icons.duckduckgo.com/ip3/empleo.ultreia.es.ico",
     "slug": "empleo-ultreia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 922,
     "timeMonth": 955,
     "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "Froiz - Web Corporativa",
