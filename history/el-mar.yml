@@ -1,7 +1,7 @@
 url: https://elmar.es
-status: up
-code: 200
-responseTime: 1819
-lastUpdated: 2025-01-18T23:12:09.021Z
+status: down
+code: 500
+responseTime: 715
+lastUpdated: 2025-01-19T21:17:55.002Z
 startTime: 2024-05-16T06:24:00.416Z
 generator: Upptime <https://github.com/upptime/upptime>
