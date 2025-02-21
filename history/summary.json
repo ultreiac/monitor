@@ -157,9 +157,9 @@
     "url": "https://webmail.ticaas.net",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.ticaas.net.ico",
     "slug": "webmail-ticaas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,7 +168,9 @@
     "timeWeek": 482,
     "timeMonth": 482,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "La Ondarresa",
