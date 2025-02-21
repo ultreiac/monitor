@@ -157,19 +157,19 @@
     "url": "https://webmail.ticaas.net",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.ticaas.net.ico",
     "slug": "webmail-ticaas",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 485,
-    "timeDay": 386,
-    "timeWeek": 482,
-    "timeMonth": 482,
+    "timeDay": 393,
+    "timeWeek": 472,
+    "timeMonth": 480,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2025-02-21": 0
+      "2025-02-21": 10
     }
   },
   {
